@@ -1,0 +1,2 @@
+This plugin marks greek questionmarks ;, which look like semicolons ;, but
+produce syntax errors.
