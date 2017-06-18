@@ -37,3 +37,27 @@ Well, now you can:
 
 # Style Options
 The semicolon-lookalikes ; are added to the `Error` syntax-highlighting group, so your active colorscheme determines the style.
+
+# About
+Created out of pure caution and with absolute seriousness.
+
+Find this project on [GitHub](https://github.com/sterereo/semicolon-rescue).
+
+# License
+This project is licensed under the [Do What the Fuck You Want to Public License (WTFPL)](https://www.wtfpl.net/).
+
+```
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+                    Version 2, December 2004
+
+ Copyright (C) 2017 Rolf Pfeffertal
+
+ Everyone is permitted to copy and distribute verbatim or modified
+ copies of this license document, and changing it is allowed as long
+ as the name is changed.
+
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+  0. You just DO WHAT THE FUCK YOU WANT TO.
+```
