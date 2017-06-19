@@ -52,3 +52,17 @@ This project is licensed under the [Do What the Fuck You Want to Public License 
 
   0. You just DO WHAT THE FUCK YOU WANT TO.
 ```
+
+# Aren't you basically adding a plugin for one line of code?
+Yes, but you can use this long winded bastard:
+
+```
+au Syntax * syn match Error /\%u37e/
+```
+
+or you can use this beaty and shorten your `.vimrc` by 2 bytes:
+
+```
+Plugin 'sterereo/semicolon-rescue'
+```
+
