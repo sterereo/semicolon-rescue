@@ -60,7 +60,7 @@ Yes, but you can use this long winded bastard:
 au Syntax * syn match Error /\%u37e/
 ```
 
-or you can use this beauty and shorten your `.vimrc` by 2 bytes:
+or you can use this beauty and shave 2 bytes off your `.vimrc`:
 
 ```
 Plugin 'sterereo/semicolon-rescue'
